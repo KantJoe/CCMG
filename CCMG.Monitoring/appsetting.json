@@ -1,0 +1,12 @@
+﻿{
+  "interval": 600000,
+  "connstr": "",
+  "email": {
+    "port": 25,
+    "smtp": "smtp.163.com",
+    "user": "sy_company_2015@163.com",
+    "pwd": "sy_company852",
+    "from": "sy_company_2015",
+    "address": "sy_company_2015@163.com"
+  }
+}
