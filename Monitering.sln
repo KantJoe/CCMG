@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCMG.Monitoring", "CCMG.Monitoring\CCMG.Monitoring.csproj", "{6467A172-23B7-4FF4-85DE-3C1AF5FEA804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORG.Monitoring", "CCMG.Monitoring\ORG.Monitoring.csproj", "{6467A172-23B7-4FF4-85DE-3C1AF5FEA804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCMG.Test", "CCMG.Test\CCMG.Test.csproj", "{568CE67C-5BA5-4C9F-A263-50B5FBCCD742}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORG.Test", "CCMG.Test\ORG.Test.csproj", "{568CE67C-5BA5-4C9F-A263-50B5FBCCD742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CCMG.Monitoring\CCMG.Monitoring.csproj" />
+    <ProjectReference Include="..\CCMG.Monitoring\ORG.Monitoring.csproj" />
   </ItemGroup>
 
 </Project>
